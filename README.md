@@ -53,7 +53,7 @@ During this internship, I am developing practical skills in Python, Pandas, data
 
 ## 📜 Internship Offer Letter
 
-![Decode Labs Internship Offer Letter](Offer-Letter/Internship_Offer_Letter.png)
+![Decode Labs Internship Offer Letter]("C:\Users\SSC\OneDrive\Documents\Projects\Screenshot 2026-11-02 151649.png")
 
 ## 🌱 My Learning Journey
 
