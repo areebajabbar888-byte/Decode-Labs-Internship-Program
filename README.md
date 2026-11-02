@@ -51,10 +51,6 @@ During this internship, I am developing practical skills in Python, Pandas, data
 - **Duration:** One Month
 - **Focus Area:** Python & Data Analytics
 
-## 📜 Internship Offer Letter
-
-![Decode Labs Internship Offer Letter]("C:\Users\SSC\OneDrive\Documents\Projects\Screenshot 2026-11-02 151649.png")
-
 ## 🌱 My Learning Journey
 
 This repository represents my continuous learning, practical experience, and professional growth throughout the Decode Labs internship program.
